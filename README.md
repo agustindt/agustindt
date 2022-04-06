@@ -5,6 +5,6 @@
   </div>
   
   <div>
-    <img src= "https://c.tenor.com/7Lnb29TbSf0AAAAC/the-office-dwight-schrute.gif" style= "width:100px; margin:0 auto;"/>     
+    <img src= "https://c.tenor.com/7Lnb29TbSf0AAAAC/the-office-dwight-schrute.gif" style= "width:500px; margin:10px center;"/>     
   </div>
 </body>
