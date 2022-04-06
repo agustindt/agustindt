@@ -9,9 +9,10 @@
   </div>
 </body>
     
-
-.rainbow {
-  /* Font options */
-  font-family: "Pacifico";
-  text-shadow: 2px 2px 4px #000000;
-  font-size: 40px;
+<script>
+  .rainbow {
+    /* Font options */
+    font-family: "Pacifico";
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 40px;
+ </script>
