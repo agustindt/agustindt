@@ -1,8 +1,6 @@
 <div>
   <img src= "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" />
-</div><div>
   <img src= "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" />
-</div><div>
   <img src= "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" />
 </div>
 
