@@ -1,5 +1,5 @@
 <body>
-  <div style= "width:500px; margin:0 auto;">
+  <div style= "width:16px; margin:0 auto;">
     <img src= "https://moonwaalk.carrd.co/assets/images/gallery01/30dbe273.gif?v77857443745951" />
   </div>
 
