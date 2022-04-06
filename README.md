@@ -1,6 +1,6 @@
 <body>
-  <div style= "width:16px; margin:0 auto;">
-    <img src= "https://moonwaalk.carrd.co/assets/images/gallery01/30dbe273.gif?v77857443745951" />
+  <div >
+    <img src= "https://moonwaalk.carrd.co/assets/images/gallery01/30dbe273.gif?v77857443745951" style= "width:5px; margin:0 auto;" />
   </div>
 
   <div style= "width:800px; margin:0 auto;">
