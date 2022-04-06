@@ -1,10 +1,30 @@
 <body>
-  <div>
-    <h1>Jim is my enemy, but </h1>
-    <h3> it turns out that Jim is also his own worst enemy. And the enemy of an enemy is my friend. So Jim is actually my friend. But, because he is his own worst enemy, the enemy of my friend is my enemy<h3>
+  <div >
+    <img src= "https://moonwaalk.carrd.co/assets/images/gallery01/30dbe273.gif?v77857443745951" style= "width:300px; margin:0 auto;" />
+  </div>
+
+  <div >
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" style= "width:100px; margin:0 auto;" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" style= "width:100px; margin:0 auto;" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" style= "width:100px; margin:0 auto;" />
+  </div>
+
+  <div style= "width:800px; margin:0 auto;">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png" style= "width:100px; margin:0 auto;" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png" style= "width:100px; margin:0 auto;" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png" style= "width:100px; margin:0 auto;" />
+  </div>
+
+  <div style= "width:800px; margin:0 auto;">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png" style= "width:100px; margin:0 auto;"/>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png" style= "width:100px; margin:0 auto;" /> 
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" style= "width:100px; margin:0 auto;" />
+  </div>
+
+  <div style= "width:800px; margin:0 auto;">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png" style= "width:100px; margin:0 auto;"/>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png" style= "width:100px; margin:0 auto;" /> 
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png" style= "width:100px; margin:0 auto;" />
   </div>
   
-  <div>
-    <img src= "https://c.tenor.com/7Lnb29TbSf0AAAAC/the-office-dwight-schrute.gif" style= "width:500px; margin:10px center;"/>     
-  </div>
 </body>
