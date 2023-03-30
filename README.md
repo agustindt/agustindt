@@ -11,13 +11,12 @@
 
 - 🌱 I’m currently learning on **ReactJS, Web 3.0**
 
-- 👨‍💻 All of my projects are available at [I'll publish it soon](I'll publish it soon)
-
-- 💬 Ask me about **python3, react, java, javascript, django, mysql, Html, Css**
+- 👨‍💻 All of my projects are available at [Portfolio](https://agustindt-portfolio.netlify.app/)
+- 💬 Ask me about **python3, react, java, javascript, django, mysql,typescript, Html, Css**
 
 - 📫 How to reach me **agustindt95@gmail.com**
 
-- 📄 Know about my experiences [I'll publish it soon](I'll publish it soon)
+- 📄 Know about my experiences [Portfolio](https://agustindt-portfolio.netlify.app/)
 
 - ⚡ Fun fact **At first I didn't like to program**
 
